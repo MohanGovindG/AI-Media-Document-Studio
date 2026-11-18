@@ -1,0 +1,4 @@
+com\aiimagestudio\config\WebConfig.class
+com\aiimagestudio\conversion\ConversionController.class
+com\aiimagestudio\AiImageStudioApplication.class
+com\aiimagestudio\auth\AuthController.class
